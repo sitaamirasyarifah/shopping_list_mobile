@@ -1,4 +1,5 @@
 # shopping_list_mobile
+![image](https://github.com/sitaamirasyarifah/shopping_list_mobile/assets/122429830/83ca633b-2bf7-43b5-90bd-e1f6c4d8138d)
 
 A new Flutter project.
 
